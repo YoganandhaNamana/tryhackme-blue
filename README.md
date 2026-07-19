@@ -132,10 +132,12 @@ Tasks completed:
 images/msfconsole.png
 
 <img width="1901" height="726" alt="search ms17" src="https://github.com/user-attachments/assets/350fd3e3-8d34-4515-a89c-e8205bf2b400" />
-images/search-ms17.png
+
 
 <img width="1907" height="666" alt="set sessoin 1" src="https://github.com/user-attachments/assets/6b65ce71-0be4-4654-b493-f971b30203ff" />
+
 <img width="1581" height="650" alt="use 0" src="https://github.com/user-attachments/assets/2f7c4fa0-32ac-48be-8a1c-c54e2495acde" />
+
 ```
 
 ---
