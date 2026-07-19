@@ -89,11 +89,14 @@ The first step was identifying available network services.
 - Observed exposed RPC services
 
 ### Screenshot
+<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/a72ccaff-c438-4d1e-98ec-c302661e51a8" />
+
+<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/a6ec6cb5-95d0-463f-ae9d-07f41884ec46" />
+
+<img width="1291" height="468" alt="nmap scan" src="https://github.com/user-attachments/assets/fd88fce1-ff68-44b3-8dab-48d1dd4c45ac" />
 
 ```
-<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/e356eb93-e331-4095-86f1-f8e9bb9f8054" />
-<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/e139a011-29fc-47f0-87b7-dd1a35133e71" />
-<img width="1291" height="468" alt="nmap scan" src="https://github.com/user-attachments/assets/a7a67a62-29b7-4e8d-ada0-eaae7eb5136a" />
+
 ```
 
 ---
