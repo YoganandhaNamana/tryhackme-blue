@@ -91,7 +91,10 @@ The first step was identifying available network services.
 ### Screenshot
 
 ```
-images/nmap-scan.png
+<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/e356eb93-e331-4095-86f1-f8e9bb9f8054" />
+<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/e139a011-29fc-47f0-87b7-dd1a35133e71" />
+<img width="1291" height="468" alt="nmap scan" src="https://github.com/user-attachments/assets/a7a67a62-29b7-4e8d-ada0-eaae7eb5136a" />
+ages/nmap-scan.png
 ```
 
 ---
@@ -105,9 +108,11 @@ The investigation highlighted **MS17-010 (EternalBlue)** as a significant vulner
 ### Screenshots
 
 ```
+<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/f964ee18-2f53-47fc-9c00-3eca2770cde8" />
 images/exploitdb-search.png
 
-images/windows7-search.png
+<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/8b85f4eb-fd53-4c92-8e55-36361719f580" />
+ages/windows7-search.png
 ```
 
 ---
@@ -126,10 +131,14 @@ Tasks completed:
 ### Screenshots
 
 ```
+<img width="1042" height="708" alt="metasploit msfconsole" src="https://github.com/user-attachments/assets/97349da7-c230-40a1-84c0-d81e83fe8b8b" />
 images/msfconsole.png
 
+<img width="1901" height="726" alt="search ms17" src="https://github.com/user-attachments/assets/350fd3e3-8d34-4515-a89c-e8205bf2b400" />
 images/search-ms17.png
 
+<img width="1907" height="666" alt="set sessoin 1" src="https://github.com/user-attachments/assets/6b65ce71-0be4-4654-b493-f971b30203ff" />
+<img width="1581" height="650" alt="use 0" src="https://github.com/user-attachments/assets/2f7c4fa0-32ac-48be-8a1c-c54e2495acde" />
 images/module-options.png
 ```
 
@@ -144,6 +153,7 @@ The session was later upgraded to **Meterpreter**, enabling enhanced interaction
 ### Screenshot
 
 ```
+<img width="1907" height="666" alt="set sessoin 1" src="https://github.com/user-attachments/assets/a1de532e-a7a6-4e20-90df-de2d0575dcad" />
 images/meterpreter-session.png
 ```
 
@@ -169,6 +179,7 @@ Located within the root directory.
 Screenshot
 
 ```
+<img width="1883" height="655" alt="Finding flag 1 path" src="https://github.com/user-attachments/assets/b1541f65-4cdc-4194-89d9-68e96cece51a" />
 images/flag1.png
 ```
 
@@ -179,6 +190,7 @@ images/flag1.png
 Explored:
 
 ```
+<img width="1897" height="615" alt="cd windows -system32-config" src="https://github.com/user-attachments/assets/5dbe4a84-ea94-492b-a5bf-3aba3ae34861" />
 C:\Windows\System32\Config
 ```
 
@@ -202,6 +214,7 @@ Located during exploration of Windows configuration files.
 Screenshot
 
 ```
+<img width="1900" height="355" alt="flage 2" src="https://github.com/user-attachments/assets/d7613b71-d558-4186-a028-266c0887919f" />
 images/flag2.png
 ```
 
@@ -214,6 +227,7 @@ Navigated through user directories to understand the Windows file structure.
 Screenshot
 
 ```
+<img width="1890" height="491" alt="finding flag 3 path" src="https://github.com/user-attachments/assets/ff3c3863-51d0-4fad-828e-971be008cb2c" />
 images/user-documents.png
 ```
 
@@ -226,6 +240,7 @@ Located within the user's Documents directory.
 Screenshot
 
 ```
+<img width="1422" height="425" alt="flage 3" src="https://github.com/user-attachments/assets/f2d16eda-8dcd-4b52-b4c7-d795f45124ca" />
 images/flag3.png
 ```
 
