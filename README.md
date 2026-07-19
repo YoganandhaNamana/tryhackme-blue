@@ -89,17 +89,12 @@ The first step was identifying available network services.
 - Observed exposed RPC services
 
 ### Screenshot
-<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/a72ccaff-c438-4d1e-98ec-c302661e51a8" />
-
-<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/a6ec6cb5-95d0-463f-ae9d-07f41884ec46" />
 
 <img width="1291" height="468" alt="nmap scan" src="https://github.com/user-attachments/assets/fd88fce1-ff68-44b3-8dab-48d1dd4c45ac" />
 
-```
 
 ```
 
----
 
 # Phase 2 — Vulnerability Research
 
@@ -109,14 +104,15 @@ The investigation highlighted **MS17-010 (EternalBlue)** as a significant vulner
 
 ### Screenshots
 
-```
-<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/f964ee18-2f53-47fc-9c00-3eca2770cde8" />
 
-<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/8b85f4eb-fd53-4c92-8e55-36361719f580" />
-ages/windows7-search.png
 ```
+<img width="1907" height="951" alt="Search exploit DB and go to search EDB" src="https://github.com/user-attachments/assets/6e4ea222-c3bc-461d-985d-ecb5c2e05f80" />
 
----
+
+<img width="1917" height="973" alt="Search Windows 7 and port number 445" src="https://github.com/user-attachments/assets/f176654f-baf7-4d32-a9c5-9452d4a9f54e" />
+
+
+```
 
 # Phase 3 — Exploitation Preparation
 
@@ -206,7 +202,6 @@ Screenshot
 
 ```
 <img width="1900" height="355" alt="flage 2" src="https://github.com/user-attachments/assets/d7613b71-d558-4186-a028-266c0887919f" />
----
 
 ## User Enumeration
 
@@ -214,7 +209,6 @@ Navigated through user directories to understand the Windows file structure.
 
 Screenshot
 
-```
 <img width="1890" height="491" alt="finding flag 3 path" src="https://github.com/user-attachments/assets/ff3c3863-51d0-4fad-828e-971be008cb2c" />
 ```
 
@@ -228,7 +222,7 @@ Screenshot
 
 ```
 <img width="1422" height="425" alt="flage 3" src="https://github.com/user-attachments/assets/f2d16eda-8dcd-4b52-b4c7-d795f45124ca" />
----
+
 
 # 🔒 Security Recommendations
 
